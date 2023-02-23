@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [SEEDS DAO \[Governance v.1 10.19.2022\]](seeds-dao-governance-v.1-10.19.2022.md)
+* [SEEDS Collaboratory DAO](README.md)
+* [1. Purpose & Vision](dao-os-canvas/1.purpose-vision/doc.md)
+* [2. Governance](dao-os-canvas/2.governance/doc.md)

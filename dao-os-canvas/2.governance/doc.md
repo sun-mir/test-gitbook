@@ -18,7 +18,7 @@
 
 ### SEEDS Collaboratory DAO - Visual Model <a href="#_81i3t7avjmka" id="_81i3t7avjmka"></a>
 
-![](.gitbook/assets/0.png)
+![](_assets/0.png)
 
 ### Power Distribution Transparency <a href="#_nk400yd262mj" id="_nk400yd262mj"></a>
 
@@ -59,20 +59,20 @@ The Proposal and smart contract will be DAOs main mode of decision making. Gener
 
 * Only Citizens in the DAO Nucleus hold the right to:
   * Submit a Proposal, vote on proposals
-  * Help define the tasks, roles, behavior, expectations and agreements described in the experience of completing a quest. ![Immagine che contiene testo, segnale, esterni
+  * Help define the tasks, roles, behavior, expectations and agreements described in the experience of completing a quest.
 
-    Descrizione generata automaticamente](.gitbook/assets/1.png)
+
 * Only Core Members of each Circle hold the right to:
   * Add, remove or change Roles;
   * Add, remove or change Policies;
   * Add, remove or change Domains;
+
+
 * Only Guardians of the Treasury hold right to:
   * Process DHO Funding Proposals
+
 * The quests are laid out for the members to self-assign tasks and collaborate on the desired quest to accumulate a final completion, witnessed to the whole purpose of the ecosystem. The final score will be a note that contributes to a list of quests.
 
-
-
-### &#x20;<a href="#_e6r2b4ks0l7s" id="_e6r2b4ks0l7s"></a>
 
 > <p><strong>Fair Share</strong>: Apply self-regulation and accept feedback to avoid debt</p>
 > <p><strong>Earth Care</strong>: Incentivise or re-prioritize the value of regenerating the greater whole- catch 
