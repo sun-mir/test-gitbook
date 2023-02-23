@@ -1,27 +1,10 @@
-# SEEDS DAO \[Governance v.1 10.19.2022]
+# Governance
 
-This proposal is part of the OS Hypha canvas requirement for activating the DAO in the HYPHA network
+## SEEDS Collaboratory DAO -
 
-The proposal will be part of a series of 12 proposals as a basic template to start the activation of the SEEDS DAO.
+  An evolution of this structure is influenced by the Constitution of SEEDS, using decentralized governance and sensemaking to better meet ours and our Earth’s needs. We want to steward a fundamental reversal of what society has done up to now, this DHO has potential to represent a reputable SEEDS node that is a friend and stabilizer of shared community.
 
-SEEDS DAO Activation DAO OS Canvas
-
-[https://docs.google.com/document/d/12\_cTwrtUpOrqamvYeuMX-Jyw84ZRIIUE/edit#](https://docs.google.com/document/d/12\_cTwrtUpOrqamvYeuMX-Jyw84ZRIIUE/edit)
-
-### &#x20;<a href="#_1fob9te" id="_1fob9te"></a>
-
-| <p>Legitimacy | Coordination | Quantum | Mediation | Allocation of SEEDS | Councils | Authority | Community Proposals</p><p>Expanding future | Possabilities | Architecting Codes and Protocols | Developing our Capacities as our</p><p>Learning Journey | Integrating Collaborations and Building Bridges |</p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### &#x20;<a href="#_tmyk87wrb13i" id="_tmyk87wrb13i"></a>
-
-Governance
-
-SEEDS Collaboratory DAO -
-
-An evolution of this structure is influenced by the Constitution of SEEDS, using decentralized governance and sensemaking to better meet ours and our Earth’s needs. We want to steward a fundamental reversal of what society has done up to now, this DHO has potential to represent a reputable SEEDS node that is a friend and stabilizer of shared community.
-
-**Internal Management and Administration Systems**
+### Internal Management and Administration Systems
 
 * **Within one Nucleus: {144 members}**
 * **3 Circles:**
@@ -33,7 +16,7 @@ An evolution of this structure is influenced by the Constitution of SEEDS, using
   * Stewardship: GUIDE US,
   * Strategy: SHOW US
 
-#### SEEDS Collaboratory DAO - Visual Model <a href="#_81i3t7avjmka" id="_81i3t7avjmka"></a>
+### SEEDS Collaboratory DAO - Visual Model <a href="#_81i3t7avjmka" id="_81i3t7avjmka"></a>
 
 ![](.gitbook/assets/0.png)
 
@@ -47,7 +30,7 @@ As of December 2022, the first three members for the DAO have been voted to the 
 * The use of sacred geometry metaphors (spider’s web or Tree of Life) … they are means of acknowledging the POWER of collective action by consent of free individuals (where old paradigm manipulation/power-over/force does achieve “results” including disparity sickness and dysfunction). The metaphors are only as good as they enable group coherence and autopoiesis.
 * The native notion of ‘Mending the Hoop’ which does not impose a sense of perfect symmetry or beauty of form achieved through exclusivity, but precisely the ACT of improvement over time, of Remembrance and Recovery. That regardless our role or skillset, that each player can do our part in “mending”
 
-#### Member Intention Broad-Based Participation <a href="#_28btymqi4j0d" id="_28btymqi4j0d"></a>
+### Member Intention Broad-Based Participation <a href="#_28btymqi4j0d" id="_28btymqi4j0d"></a>
 
 Greatest power lies between friends, communities, and the personal local areas rather than power flowing up by elections and motivation from the top down. Structurally the DAO enables individuals to play various roles. Digital trust, responsibility, and how you treat others will form a reputation.
 
@@ -69,9 +52,8 @@ The DAO is capable of being responsible for replacing the aspects of project man
 * Each member has the opportunity to demonstrate what right use of power looks like per role.
 * Generate dialogue and storytelling at the edge of the Nucleus membrane, with those a high degree of interest for the opportunity to innovate.
 
-#### &#x20;<a href="#_33t2gjf7nihk" id="_33t2gjf7nihk"></a>
 
-#### Policy and Proposal Formulation Accountability <a href="#_u3cgobymseyz" id="_u3cgobymseyz"></a>
+### Policy and Proposal Formulation Accountability
 
 The Proposal and smart contract will be DAOs main mode of decision making. Generating a living body of practical knowledge and experience, documented in the blockchain, that takes shape according to the involvement of its members and decisions of its Nucleus.
 
@@ -92,12 +74,13 @@ The Proposal and smart contract will be DAOs main mode of decision making. Gener
 
 ### &#x20;<a href="#_e6r2b4ks0l7s" id="_e6r2b4ks0l7s"></a>
 
-| <p><strong>Fair Share</strong>: Apply self-regulation and accept feedback to avoid debt</p><p><strong>Earth Care</strong>: Incentivise or re-prioritize the value of regenerating the greater whole-</p><p>catch and store energy= build up some savings.</p><p><strong>People Care</strong>: Obtain a yield= spend less money than you earn.</p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> <p><strong>Fair Share</strong>: Apply self-regulation and accept feedback to avoid debt</p>
+> <p><strong>Earth Care</strong>: Incentivise or re-prioritize the value of regenerating the greater whole- catch 
+> and store energy= build up some savings.</p>
+> <p><strong>People Care</strong>: Obtain a yield= spend less money than you earn.</p>
 
-#### &#x20;<a href="#_voaqv7g9achz" id="_voaqv7g9achz"></a>
 
-#### Priority Setting Responsiveness <a href="#_gwsj5p7rcro2" id="_gwsj5p7rcro2"></a>
+### Priority Setting Responsiveness
 
 * First the Working Group agrees on the three Founders, then they create a proposal to initiate the next wave of members to support and define the council. Specific commitments and when to vote will continue to evolve as the DHO defines its foundation on chain. The final composition will be transparent in the ecosystem.
 
@@ -118,7 +101,7 @@ The Proposal and smart contract will be DAOs main mode of decision making. Gener
 * Establish conflict resolution facilitation
   * During Conflict Resolution, the Support DHO must facilitate a process that allows the participant who brought the Tension, the "Proponent", to build a "Proposal" to resolve it. This Proposal must contain only the operations described as valid outputs from this Mode.
 
-#### Tracking Shared Contributions Equity and Inclusiveness <a href="#_ufo5c2fzidri" id="_ufo5c2fzidri"></a>
+### Tracking Shared Contributions Equity and Inclusiveness
 
 **How we operate:**
 
@@ -133,9 +116,9 @@ The Proposal and smart contract will be DAOs main mode of decision making. Gener
 * A tool kit for every member to resonate with the constitution and extension.
 * A translator of technology and code
 
-#### Stabilizing Internal Norms <a href="#_ytsr7tshr3bj" id="_ytsr7tshr3bj"></a>
+## Stabilizing Internal Norms <a href="#_ytsr7tshr3bj" id="_ytsr7tshr3bj"></a>
 
-#### Language Empowerment <a href="#_ih5ays5jud85" id="_ih5ays5jud85"></a>
+### Language Empowerment <a href="#_ih5ays5jud85" id="_ih5ays5jud85"></a>
 
 * Membranship
 * Councils
