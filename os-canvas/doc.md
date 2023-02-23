@@ -1,8 +1,8 @@
-# Governance
+# 2. Governance
 
 ## SEEDS Collaboratory DAO -
 
-  An evolution of this structure is influenced by the Constitution of SEEDS, using decentralized governance and sensemaking to better meet ours and our Earth’s needs. We want to steward a fundamental reversal of what society has done up to now, this DHO has potential to represent a reputable SEEDS node that is a friend and stabilizer of shared community.
+An evolution of this structure is influenced by the Constitution of SEEDS, using decentralized governance and sensemaking to better meet ours and our Earth’s needs. We want to steward a fundamental reversal of what society has done up to now, this DHO has potential to represent a reputable SEEDS node that is a friend and stabilizer of shared community.
 
 ### Internal Management and Administration Systems
 
@@ -18,7 +18,7 @@
 
 ### SEEDS Collaboratory DAO - Visual Model <a href="#_81i3t7avjmka" id="_81i3t7avjmka"></a>
 
-![](_assets/0.png)
+![](../dao-os-canvas/2.governance/\_assets/0.png)
 
 ### Power Distribution Transparency <a href="#_nk400yd262mj" id="_nk400yd262mj"></a>
 
@@ -52,7 +52,6 @@ The DAO is capable of being responsible for replacing the aspects of project man
 * Each member has the opportunity to demonstrate what right use of power looks like per role.
 * Generate dialogue and storytelling at the edge of the Nucleus membrane, with those a high degree of interest for the opportunity to innovate.
 
-
 ### Policy and Proposal Formulation Accountability
 
 The Proposal and smart contract will be DAOs main mode of decision making. Generating a living body of practical knowledge and experience, documented in the blockchain, that takes shape according to the involvement of its members and decisions of its Nucleus.
@@ -60,25 +59,19 @@ The Proposal and smart contract will be DAOs main mode of decision making. Gener
 * Only Citizens in the DAO Nucleus hold the right to:
   * Submit a Proposal, vote on proposals
   * Help define the tasks, roles, behavior, expectations and agreements described in the experience of completing a quest.
-
-
 * Only Core Members of each Circle hold the right to:
   * Add, remove or change Roles;
   * Add, remove or change Policies;
   * Add, remove or change Domains;
-
-
 * Only Guardians of the Treasury hold right to:
   * Process DHO Funding Proposals
-
 * The quests are laid out for the members to self-assign tasks and collaborate on the desired quest to accumulate a final completion, witnessed to the whole purpose of the ecosystem. The final score will be a note that contributes to a list of quests.
 
-
-> <p><strong>Fair Share</strong>: Apply self-regulation and accept feedback to avoid debt</p>
-> <p><strong>Earth Care</strong>: Incentivise or re-prioritize the value of regenerating the greater whole- catch 
-> and store energy= build up some savings.</p>
-> <p><strong>People Care</strong>: Obtain a yield= spend less money than you earn.</p>
-
+> **Fair Share**: Apply self-regulation and accept feedback to avoid debt
+>
+> **Earth Care**: Incentivise or re-prioritize the value of regenerating the greater whole- catch and store energy= build up some savings.
+>
+> **People Care**: Obtain a yield= spend less money than you earn.
 
 ### Priority Setting Responsiveness
 
